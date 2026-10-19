@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "item_type": "route",
+      "item_id": 201,
+      "item_user_id": 1,
+      "item_url": "https://ridewithgps.com/api/v1/routes/201.json",
+      "action": "created",
+      "datetime": "2024-09-05T05:47:53Z",
+      "collection": null
+    },
+    {
+      "item_type": "route",
+      "item_id": 101,
+      "item_user_id": 1,
+      "item_url": "https://ridewithgps.com/api/v1/routes/101.json",
+      "action": "updated",
+      "datetime": "2024-09-05T06:00:00Z",
+      "collection": null
+    },
+    {
+      "item_type": "route",
+      "item_id": 102,
+      "item_user_id": 1,
+      "item_url": "https://ridewithgps.com/api/v1/routes/102.json",
+      "action": "deleted",
+      "datetime": "2024-09-05T06:10:00Z",
+      "collection": null
+    },
+    {
+      "item_type": "route",
+      "item_id": 301,
+      "item_user_id": 2,
+      "item_url": "https://ridewithgps.com/api/v1/routes/301.json",
+      "action": "added",
+      "datetime": "2024-09-05T06:20:00Z",
+      "collection": {"id": 2, "type": "pinned", "url": null}
+    },
+    {
+      "item_type": "trip",
+      "item_id": 401,
+      "item_user_id": 1,
+      "item_url": "https://ridewithgps.com/api/v1/trips/401.json",
+      "action": "created",
+      "datetime": "2024-09-05T06:30:00Z",
+      "collection": null
+    }
+  ],
+  "meta": {
+    "rwgps_datetime": "2024-09-05T07:00:00Z",
+    "next_sync_url": "https://ridewithgps.com/api/v1/sync.json?since=2024-09-05T07:00:00Z"
+  }
+}
