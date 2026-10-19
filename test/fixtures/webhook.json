@@ -1,0 +1,35 @@
+{
+  "notifications": [
+    {
+      "user_id": 1,
+      "item_type": "route",
+      "item_id": 101,
+      "item_user_id": 1,
+      "item_url": "https://ridewithgps.com/routes/101.json",
+      "action": "deleted",
+      "collection": null
+    },
+    {
+      "user_id": 2,
+      "item_type": "route",
+      "item_id": 102,
+      "item_user_id": 1,
+      "item_url": "https://ridewithgps.com/routes/102.json",
+      "action": "added",
+      "collection": {
+        "id": 2,
+        "type": "pinned",
+        "url": null
+      }
+    },
+    {
+      "user_id": 1,
+      "item_type": "route",
+      "item_id": 201,
+      "item_user_id": 1,
+      "item_url": "https://ridewithgps.com/routes/201.json",
+      "action": "created",
+      "collection": null
+    }
+  ]
+}
