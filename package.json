@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-ridewithgps",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Gatsby plugin to use RideWithGPS routes as a data source",
   "repository": {
     "type": "git",
